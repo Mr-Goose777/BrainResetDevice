@@ -12,4 +12,4 @@ Microglia enable mature perineuronal nets disassembly upon anesthetic ketamine e
 
 The random mode is just randomly there to spice things up. Make it less repetative.
 
-Don't worry about LED or Piezo resistirs resistors. They are only on for 1ms or 500 microseconds, or running at very low PWM. seriously. Say NO to OCD. It will work fine. Trust me. NO TO OCD. YAY
+Don't worry about LED or Piezo resistors. They are only on for 1ms or 500 microseconds, or running at very low PWM. seriously. Say NO to OCD. It will work fine. Trust me. NO TO OCD. YAY
