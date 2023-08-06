@@ -14,6 +14,10 @@ For arduino nano.
   - A pair of cheap broken sunglasses (maybe take the glasses out)
   - Glue or tape, Preferrably of the double sided kind.
 
+    Download: brainreset40hz60hzRandom.ino from master, compile using latest arduino IDE, upload.
+    
+    An step by step explaination to do the above can be found here: https://www.arduino.cc/en/Guide/ArduinoNano
+
 The reason I built this are the following studies: 
 Multi-sensory Gamma Stimulation Ameliorates Alzheimer’s-Associated Pathology and Improves Cognition   (https://doi.org/10.1016/j.cell.2019.02.014)
 Non-invasive 40-Hz Light Flicker Ameliorates Alzheimer’s-Associated Rhythm Disorder via Regulating Central Circadian Clock in Mice   (https://doi.org/10.3389/fphys.2020.00294)
