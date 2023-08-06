@@ -7,7 +7,7 @@ For arduino nano.
   All you need:
   - 4x white LEDs
   - 1 x Arduino nano
-  - 2 piezo spealers
+  - 2 piezo speakers
   - some wire
   - Power: Battery (pack) over 6V  or USB-Charger + cable
   - Some way to connect those together( Soldering iron or breadboard etc.).
