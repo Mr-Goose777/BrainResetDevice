@@ -9,7 +9,7 @@ For arduino nano.
   - 1 x Arduino nano
   - 2 piezo spealers
   - some wire
-  - Power: Battery (pack) over 6V  or USB-Charger
+  - Power: Battery (pack) over 6V  or USB-Charger + cable
   - Some way to connect those together Soldering iron (or breadboard etc.).
   - A pair of cheap sunglasses (maybe take the glasses out)
   - Glue or tape, Preferrably of the double sided kind.
