@@ -11,3 +11,5 @@ Ketamine and flickering light bring youthful plasticity to older brains    (Scie
 Microglia enable mature perineuronal nets disassembly upon anesthetic ketamine exposure or 60-Hz light entrainment in the healthy brain (https://doi.org/10.1016/j.celrep.2021.109313)
 
 The random mode is just randomly there to spice things up. Make it less repetative.
+
+Don't worry about LED or Piezo resistirs resistors. They are only on for 1ms or 500 microseconds, or running at very low PWM. seriously. Say NO to OCD. It will work fine. Trust me. NO TO OCD. YAY
