@@ -1,7 +1,18 @@
 # BrainResetDevice
+For arduino nano.
 - Sequential Illumination: The LEDs light up in a specific sequence, illuminating either the right visual field or the left of both eyes.
 - 40 Hz or 60 Hz frequency.
 - Random Flickering Mode: random flickering of all four LEDs simultaneously.
+
+  All you need:
+  4x white LEDs
+  1 x Arduino nano
+  2 piezo spealers
+  some wire
+  Power: Battery (pack) over 6V  or USB-Charger
+  Some way to connect those together Soldering iron (or breadboard etc.).
+  A pair of cheap sunglasses (maybe take the glasses out)
+  Glue or tape, Preferrably of the double sided kind.
 
 The reason I built this are the following studies: 
 Multi-sensory Gamma Stimulation Ameliorates Alzheimer’s-Associated Pathology and Improves Cognition   (https://doi.org/10.1016/j.cell.2019.02.014)
