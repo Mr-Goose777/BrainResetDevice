@@ -18,6 +18,8 @@ For arduino nano.
     
     An step by step explaination to do the above can be found here: https://www.arduino.cc/en/Guide/ArduinoNano
 
+    **You will need to add the elapsedMillis library by  pfeerick, you can do so in Arduino IDE by going to Tools -> Manage Linraries.**
+    
 The reason I built this are the following studies: 
 Multi-sensory Gamma Stimulation Ameliorates Alzheimer’s-Associated Pathology and Improves Cognition   (https://doi.org/10.1016/j.cell.2019.02.014)
 
