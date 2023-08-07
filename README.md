@@ -33,3 +33,6 @@ The random mode is just randomly there to spice things up. Make it less repetati
 Don't worry about LED resistors. They are only on for 1ms or 500 microseconds, or running at very low PWM. seriously. Say NO to OCD. It will work fine. Trust me. NO TO OCD. YAY ✌️
  
 demonstration (Normal / Slowmo / just 60 Hz mode) : https://www.youtube.com/watch?v=WaUFnwsd4EI
+
+![image](https://github.com/Mr-Goose777/BrainResetDevice/assets/141585273/26ba025b-6d47-402a-a107-e057432901e0)
+
